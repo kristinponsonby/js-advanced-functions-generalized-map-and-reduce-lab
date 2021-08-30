@@ -7,6 +7,6 @@ function mapToNegativize(src) {
   }
 
 
-function map(mapToNegativize) {
+function map(src), mapToNegativize(src) {
     return mapToNegativize
 }
